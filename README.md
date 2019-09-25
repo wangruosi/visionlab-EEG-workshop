@@ -16,7 +16,7 @@ These are the materials and resources for Vision Lab EEG workshop on Sep 25th, 2
 **Install MNE-Python and its dependencies in a virtual environment**
 ```
 curl --remote-name https://raw.githubusercontent.com/mne-tools/mne-python/master/environment.yml
-conda env create --name mne python=3.6.8 -f environment.yml`
+conda env create --name mne python=3.6.8 -f environment.yml
 ```
 **Test MNE-Python Installation**
 ```
